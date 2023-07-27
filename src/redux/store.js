@@ -21,3 +21,4 @@ const store = configureStore({
 export default store;
 
 export const server = 'https://udemy-back.onrender.com/api/v1';
+// export const server = 'http://localhost:4000';
